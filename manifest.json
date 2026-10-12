@@ -1,0 +1,26 @@
+{
+  "name": "Coupling & Uncoupling Trainer",
+  "short_name": "Coupling",
+  "description": "Practice the tractor-trailer coupling and uncoupling sequence step by step in 3D, with a timed test mode.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#0e1317",
+  "theme_color": "#0e1317",
+  "categories": ["education", "simulation", "games"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-1024.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ],
+  "screenshots": [
+    {"src": "screenshots/screenshot1.png", "sizes": "1920x1080", "type": "image/png", "form_factor": "wide", "label": "Pick the first coupling step in the truck yard"},
+    {"src": "screenshots/screenshot2.png", "sizes": "1920x1080", "type": "image/png", "form_factor": "wide", "label": "Line up the tractor in front of the trailer"},
+    {"src": "screenshots/screenshot3.png", "sizes": "1920x1080", "type": "image/png", "form_factor": "wide", "label": "Back under the trailer with the air lines connected"},
+    {"src": "screenshots/screenshot4.png", "sizes": "1920x1080", "type": "image/png", "form_factor": "wide", "label": "Inspect the coupling for a gap and locked jaws"}
+  ]
+}
